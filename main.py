@@ -5,6 +5,7 @@ side = int(input())
 print('Your area is', side * side)
 print('Your circumference is', 4 * side)
 
+print('Peace')
 
 
 # Salary Prompt - Peace Ocran
